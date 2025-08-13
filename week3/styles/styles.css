@@ -1,0 +1,21 @@
+p{
+   background-color: cornsilk;
+   color: brown;
+}
+
+#main-content{
+    background-color: blue;
+    font-weight: lighter;
+    
+}
+
+.section-text{
+    font-size: 17px;
+    color: darkblue;
+    text-align: left;
+}
+
+* {
+    font-weight: bold;
+    font-family: sans-serif;
+}
